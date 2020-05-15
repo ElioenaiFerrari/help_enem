@@ -20,7 +20,7 @@ class _IntroScreenState extends State<IntroScreen> {
     {
       'title': 'Estudos',
       'subtitle':
-          'Sabemos o quanto o ENEM é importante, por isso compartilhe nosso app com seus amigos, ajude para ser ajudado!',
+          'Sabemos o quanto se formar é importante, por isso compartilhe nosso app com seus amigos, ajude para ser ajudado!',
       'img': 'assets/img/study_group.png',
       'width': 350.0,
       'height': 380.0,
